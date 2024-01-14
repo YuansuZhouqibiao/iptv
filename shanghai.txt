@@ -1,0 +1,8 @@
+上海台,#genre#
+上海新闻综合频道,https://volc-stream.kksmg.com/live/xwzh/index.m3u8?volcSecret=16313ea77cc8fca7e4886b8d9cd3049c&volcTime=1705206280
+上海纪实人文频道,https://tencent-stream.kksmg.com/live/jspd.m3u8?txSecret=c8810ee0b81391a0c7c224d4c8427b21&txTime=65a3622a
+地方,#genre#
+上海外语,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8
+上海都市,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001015/index.m3u8
+上海教育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001268/index.m3u8
+上海新闻,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8
