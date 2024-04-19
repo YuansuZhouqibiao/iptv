@@ -164,6 +164,11 @@ CHC高清电影频道,https://h5cdn404.kylintv.tv/live/chcmoviehd_iphone.m3u8
 泸州公共频道,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel102221/playlist.m3u8
 泸州科教频道,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
 国际,#genre#
+CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
+CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
+CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
+CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
+CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 CNN,https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
 BBC,https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -248,11 +253,6 @@ Travelxp,https://i.mjh.nz/SamsungTVPlus/ATBA1000005P4.m3u8
 The Guardian,https://i.mjh.nz/SamsungTVPlus/GBAJ2400003DD.m3u8
 The Lego Channel,https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
 NextUp Live Comedy,https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
-CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
-CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
-CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
-CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
-CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 地方,#genre#
 金鹰卡通,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF/2bWjKgahUTWDyIgRkFJBAHMhA2ayG0T0ZQXwaiVktPr6ILPKXqwOw2VoxnxHvBSRSzCCC3szSwIgrD0rUpRXeaqChwLXCf0
 湖南爱晚,http://222.241.154.37:9901/tsfile/live/23022_1.m3u8
