@@ -86,9 +86,9 @@ http://live.sjsrm.com/bjsjs/sd/live.m3u8
 #EXTINF:-1 tvg-id="房山电视台" tvg-logo="http://tv.haoqu99.com/d/file/2022/0326/smallf7e7002ad94212bda9fa70cacc4482af1648266813.jpg"  group-title="北京台" ,房山电视台
 http://live.funhillrm.com/2/sd/live.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文"  group-title="卫视" ,凤凰中文
-http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
+https://tv.iill.top/jd/fhzw
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰资讯"  group-title="卫视" ,凤凰资讯
-http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+https://tv.iill.top/jd/fhzx
 #EXTINF:-1 tvg-id="284" tvg-name="凤凰香港"  group-title="卫视" ,凤凰香港
 http://103.95.24.37:880/fhxgt.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视"  tvg-logo="https://live.fanmingming.com/tv/北京卫视.png"  group-title="卫视" ,北京卫视
