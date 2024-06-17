@@ -263,6 +263,16 @@ http://njzb.scnj.tv:90/live/xwzh_xwzh800.m3u8
 http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel102221/playlist.m3u8
 #EXTINF:-1 tvg-id="泸州科教频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0120/smallc63c71efa3c24aa2187c9fcfc9ed6cef1516423857.jpg"  group-title="四川台" ,泸州科教频道
 http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTNDoc.png"  group-title="国际" ,CGTN纪录
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png"  group-title="国际" ,CGTN俄语
+http://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
+#EXTINF:-1 tvg-id="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png"  group-title="国际" ,CGTN法语
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+#EXTINF:-1 tvg-id="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png"  group-title="国际" ,CGTN西语
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+#EXTINF:-1 tvg-id="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png"  group-title="国际" ,CGTN阿语
+https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 #EXTINF:-1 group-title="国际" ,CNN
 https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
 #EXTINF:-1 group-title="国际" ,BBC
@@ -327,16 +337,6 @@ https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
 #EXTINF:-1 group-title="国际" ,The Lego Channel
 https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
-#EXTINF:-1 tvg-id="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTNDoc.png"  group-title="国际" ,CGTN纪录
-https://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1 tvg-id="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png"  group-title="国际" ,CGTN俄语
-http://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
-#EXTINF:-1 tvg-id="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png"  group-title="国际" ,CGTN法语
-https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
-#EXTINF:-1 tvg-id="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png"  group-title="国际" ,CGTN西语
-https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
-#EXTINF:-1 tvg-id="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png"  group-title="国际" ,CGTN阿语
-https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 #EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教"  tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png"  group-title="地方" ,纪实科教
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 #EXTINF:-1 tvg-id="卡酷动画" tvg-name="卡酷动画"  tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png"  group-title="地方" ,卡酷少儿
@@ -363,19 +363,19 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/in
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN4766929BESTVSMGSMG/index.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="湖南爱晚" tvg-name="湖南爱晚"  tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖南爱晚.png"  group-title="地方" ,湖南爱晚
 http://222.241.154.37:9901/tsfile/live/23022_1.m3u8
-#EXTINF:-1 tvg-id="湖南电视剧" tvg-name="湖南电视剧"  tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖南电视剧.png"  group-title="地方" ,湖南视剧
+#EXTINF:-1 tvg-id="湖南电视剧" tvg-name="湖南电视剧"  tvg-logo="https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖南电视剧.png"  group-title="地方" ,湖南视剧
 http://222.241.154.37:9901/tsfile/live/23026_1.m3u8
-#EXTINF:-1 tvg-id="湖南电影" tvg-name="湖南电影"  tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖南电影.png"  group-title="地方" ,湖南电影
+#EXTINF:-1 tvg-id="湖南电影" tvg-name="湖南电影"  tvg-logo="https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖南电影.png"  group-title="地方" ,湖南电影
 http://222.241.154.37:9901/tsfile/live/23025_1.m3u8
-#EXTINF:-1 tvg-id="湖南都市" tvg-name="湖南都市"  tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖南都市.png"  group-title="地方" ,湖南都市
+#EXTINF:-1 tvg-id="湖南都市" tvg-name="湖南都市"  tvg-logo="https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖南都市.png"  group-title="地方" ,湖南都市
 http://222.241.154.37:9901/tsfile/live/23021_1.m3u8
-#EXTINF:-1 tvg-id="湖南国际" tvg-name="湖南国际"  tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖南国际.png"  group-title="地方" ,湖南国际
+#EXTINF:-1 tvg-id="湖南国际" tvg-name="湖南国际"  tvg-logo="https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖南国际.png"  group-title="地方" ,湖南国际
 http://222.241.154.37:9901/tsfile/live/23024_1.m3u8
-#EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视"  tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖南经视.png"  group-title="地方" ,湖南经视
+#EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视"  tvg-logo="https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖南经视.png"  group-title="地方" ,湖南经视
 http://222.241.154.37:9901/tsfile/live/23020_1.m3u8
-#EXTINF:-1 tvg-id="湖南娱乐" tvg-name="湖南娱乐"  tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖南娱乐.png"  group-title="地方" ,湖南娱乐
+#EXTINF:-1 tvg-id="湖南娱乐" tvg-name="湖南娱乐"  tvg-logo="https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖南娱乐.png"  group-title="地方" ,湖南娱乐
 http://222.241.154.37:9901/tsfile/live/23023_1.m3u8
-#EXTINF:-1 tvg-id="湖南教育" tvg-name="湖南教育台"  tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖南教育台.png"  group-title="地方" ,湖南教育
+#EXTINF:-1 tvg-id="湖南教育" tvg-name="湖南教育台"  tvg-logo="https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖南教育台.png"  group-title="地方" ,湖南教育
 http://222.241.154.37:9901/tsfile/live/23027_1.m3u8
 #EXTINF:-1 tvg-id="湖北综合" tvg-name="湖北综合"  tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖北综合.png"  group-title="地方" ,湖北综合
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072216f7da/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLx3R3LdIBdA5q61lut1LwZcw4SC2tJubc%2Bq5t%2F61jvWCtjrJL0x%2BHncPgdmcbBW9I
@@ -1370,7 +1370,7 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17"  tvg-logo="https://live.fanmingming.com/tv/CCTV17.png"  group-title="央视" ,CCTV-17
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K"  tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png"  group-title="央视" ,CCTV-4K
-http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CGTN.png"  group-title="央视" ,CGTN新闻
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png"  group-title="央视" ,CGTN纪录
